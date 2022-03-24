@@ -1,5 +1,6 @@
 import "../styles/Technologies.scss";
 import { Link } from "react-router-dom";
+//Icons
 import { FaRegHandPointRight } from "react-icons/fa";
 
 const Technologies = () => {

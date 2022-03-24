@@ -1,4 +1,5 @@
 import { Route, Switch } from "react-router-dom";
+//Components
 import Landing from "./Landing";
 import AboutMe from "./AboutMe";
 import Contact from "./Contact";

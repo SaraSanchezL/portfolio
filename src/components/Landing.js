@@ -1,6 +1,6 @@
 import "../styles/Landing.scss";
-import photo from "../images/photo.jpg";
 import { Link } from "react-router-dom";
+import photo from "../images/photo.jpg";
 //Icons
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
