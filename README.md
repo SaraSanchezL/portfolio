@@ -1,4 +1,4 @@
-# Personal Portfolio 🌠 
+# Personal Portfolio 🌠
 
 <div align="center"> <img src="/src/images/portPreview.png" width="400px"</img> </div>
 
@@ -15,12 +15,13 @@ The content is divided into different components accessible through routes. It i
 - Contact (with contact information).
 - Projects (links to most recent projects and their description).
 
-Each component has its associated SCSS file. 
+Each component has its associated SCSS file.
 
-🥳 Enjoy! 🥳 
+🥳 Enjoy! 🥳
 
-## Pending tasks 👀 
+## Pending tasks 👀
 
 1. Readjust CSS class names, to use BEM.
-2. Cleanup of unused or repeated code.
-3. Refactor and indent.
+2. adjust background color with CSS.
+3. Cleanup of unused or repeated code.
+4. Refactor and indent.
