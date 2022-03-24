@@ -1,0 +1,103 @@
+@import "./reset.scss";
+
+.main {
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(0, 6, 113, 1) 100%
+  );
+}
+.containerMainTitle {
+  margin-top: 10px;
+}
+
+.sectionOne {
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.sectionTwo {
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
+
+.listNav {
+  margin: 20px;
+}
+
+.linksLanding,
+.linksLandingSocial {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: gold;
+  padding: 15px;
+}
+
+.mainPhoto {
+  margin: 15px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+@media all and (min-width: 748px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(
+      circle,
+      rgba(238, 174, 202, 1) 0%,
+      rgba(0, 6, 113, 1) 100%
+    );
+  }
+
+  .sectionOne {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+
+  .sectionTwo {
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+  }
+
+  .linksLanding,
+  .linksLandingSocial {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: gold;
+    padding: 10px;
+  }
+
+  .mainPhoto {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+  }
+}

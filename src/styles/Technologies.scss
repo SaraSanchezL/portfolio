@@ -1,0 +1,52 @@
+@import "./reset.scss";
+
+.headerTecn {
+  padding: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: goldenrod;
+  border-bottom: dotted black 2px;
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.mainTecn {
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.sectionSpaTec,
+.sectionEngTec {
+  padding: 25px;
+  margin-bottom: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.listTecn {
+  list-style-type: circle;
+}
+
+@media all and (min-width: 748px) {
+  .headerTecn {
+    padding-left: 50px;
+    padding-top: 15px;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .mainTecn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .sectionSpaTec {
+    width: 700px;
+    transform: translate(20%, 5%);
+  }
+  .sectionEngTec {
+    width: 700px;
+    transform: translate(-20%, 5%);
+  }
+}

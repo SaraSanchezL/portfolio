@@ -1,0 +1,86 @@
+@import "./reset.scss";
+
+.headerProj {
+  width: 100vw;
+  padding: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: goldenrod;
+  border-bottom: dotted black 2px;
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.mainProj {
+  padding: 5px;
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+}
+
+.allSection {
+  width: 100vw;
+  padding: 10px;
+  margin-left: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.titleEachProj {
+  color: darkred;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
+
+.listProj {
+  list-style-type: circle;
+  margin: 15px;
+}
+
+.linksProj {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  color: gold;
+  padding: 10px;
+  margin: 1px;
+}
+
+.imgPrevious {
+  width: 150px;
+  height: 75px;
+}
+
+@media all and (min-width: 748px) {
+  .headerProj {
+    padding-left: 50px;
+    padding-top: 15px;
+  }
+  .mainProj {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .allSection {
+    width: 50vw;
+    padding: 20px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: dotted black 1px;
+  }
+  .titleEachProj {
+    color: darkred;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+  }
+  .linksProj {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: gold;
+    padding: 10px;
+  }
+  .imgPrevious {
+    width: 500px;
+    height: 250px;
+  }
+}
