@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.59524fd8.css",
+    "main.js": "./static/js/main.d72c54b5.js",
+    "static/media/anonymous-proxy.png": "./static/media/anonymous-proxy.15ae936f537d524cf5fe.png",
+    "static/media/hangman-game.png": "./static/media/hangman-game.96b9db7004771fbe02eb.png",
+    "static/media/harry-potter-characters-finder.png": "./static/media/harry-potter-characters-finder.0dc2ac0fb1c1f196246b.png",
+    "static/media/anime-series-finder.png": "./static/media/anime-series-finder.1f9c0d54d8b21190f9e2.png",
+    "static/media/photo.jpg": "./static/media/photo.448d42d98f6f5c3ffed0.jpg",
+    "static/media/bravo-profile-cards.png": "./static/media/bravo-profile-cards.fb7a46045209381d8a77.png",
+    "static/media/linkedin.png": "./static/media/linkedin.b732b6e961f5a18c3b71.png",
+    "index.html": "./index.html",
+    "main.59524fd8.css.map": "./static/css/main.59524fd8.css.map",
+    "main.d72c54b5.js.map": "./static/js/main.d72c54b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59524fd8.css",
+    "static/js/main.d72c54b5.js"
+  ]
+}
