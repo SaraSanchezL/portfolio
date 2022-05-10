@@ -9,7 +9,6 @@ const Technologies = () => {
       <header className="headerTecn">
         <Link to="/">Volver al inicio</Link>
         <h1>
-          {" "}
           <FaRegHandPointRight /> Technologies
         </h1>
       </header>
