@@ -31,7 +31,7 @@ const Technologies = () => {
               con Node JS, Express y SQL.
             </li>
             <li className="listTecn">
-              Manejo de Slack, GitHub, VS Code, Terminal, Zeplin, Linter y Gulp.
+              Manejo de Slack, GitHub, VS Code, Terminal, Heroku, Zeplin, Linter y Gulp.
             </li>
             <li className="listTecn">
               Experiencia en el desarrollo de proyecto usando filosofía Agile y
@@ -39,6 +39,9 @@ const Technologies = () => {
             </li>
             <li className="listTecn">
               Dominio de herramientas para trabajo en remoto.
+            </li>
+            <li className="listTecn">
+              Curso de Jira Academy: conceptos básicos de Jira Software.
             </li>
           </ul>
         </section>
@@ -60,7 +63,7 @@ const Technologies = () => {
               Node JS, Express and SQL.
             </li>
             <li className="listTecn">
-              Management of Slack, GitHub, VS Code, Terminal, Zeplin, Linter and
+              Management of Slack, GitHub, VS Code, Terminal, Heroku, Zeplin, Linter and
               Gulp.
             </li>
             <li className="listTecn">
@@ -68,6 +71,9 @@ const Technologies = () => {
               framework.
             </li>
             <li className="listTecn">Management of tools for remote work.</li>
+            <li className="listTecn">
+              Jira Academy Course: Jira Software basics.
+            </li>
           </ul>
         </section>
       </main>
