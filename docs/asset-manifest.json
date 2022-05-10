@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.915a8959.css",
-    "main.js": "./static/js/main.84ba6665.js",
+    "main.js": "./static/js/main.03feb8b1.js",
     "static/media/anonymous-proxy.png": "./static/media/anonymous-proxy.15ae936f537d524cf5fe.png",
     "static/media/hangman-game.png": "./static/media/hangman-game.96b9db7004771fbe02eb.png",
     "static/media/harry-potter-characters-finder.png": "./static/media/harry-potter-characters-finder.0dc2ac0fb1c1f196246b.png",
@@ -15,10 +15,10 @@
     "static/media/simple-notes-app.png": "./static/media/simple-notes-app.00459331583075bfb784.png",
     "index.html": "./index.html",
     "main.915a8959.css.map": "./static/css/main.915a8959.css.map",
-    "main.84ba6665.js.map": "./static/js/main.84ba6665.js.map"
+    "main.03feb8b1.js.map": "./static/js/main.03feb8b1.js.map"
   },
   "entrypoints": [
     "static/css/main.915a8959.css",
-    "static/js/main.84ba6665.js"
+    "static/js/main.03feb8b1.js"
   ]
 }
