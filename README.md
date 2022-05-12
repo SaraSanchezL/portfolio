@@ -1,8 +1,9 @@
-# Personal Portfolio 🌠
+# Portfolio 🌠
 
 <div align="center"> <img src="/src/images/portPreview.png" width="400px"</img> </div>
 
 ✴️ Made with React.
+This is my personal portfolio! It includes a brief description about me, all the projects done so far, skills and contact forms. 🙂 
 
 ## Description
 
@@ -19,9 +20,3 @@ Each component has its associated SCSS file.
 
 🥳 Enjoy! 🥳
 
-## Pending tasks 👀
-
-1. Readjust CSS class names, to use BEM.
-2. adjust background color with CSS.
-3. Cleanup of unused or repeated code.
-4. Refactor and indent.
